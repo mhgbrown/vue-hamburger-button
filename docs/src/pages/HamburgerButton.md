@@ -20,6 +20,7 @@ export default {
   }
 }
 </script>
+<!-- component-demo.vue -->
 ````
 
 ### Props
