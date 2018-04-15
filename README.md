@@ -4,6 +4,12 @@
 
 ![hamburger menu button](http://g.recordit.co/BP2V4xQIxt.gif)
 
+## Install
+
+``` bash
+npm i vue-hamburger-button
+```
+
 ## Usage
 
 See the [documentation](https://mhgbrown.github.io/vue-hamburger-button/dist/).

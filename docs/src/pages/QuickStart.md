@@ -1,5 +1,11 @@
 # Quick Start
 
+## Install
+
+```bash
+npm i vue-hamburger-button
+```
+
 ## Install (without npm)
 
 Clone the Git repository of this library and link it.
