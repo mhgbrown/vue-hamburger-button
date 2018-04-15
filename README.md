@@ -1,6 +1,6 @@
 # vue-hamburger-button
 
-> A simple hamburger menu button
+> A simple, accessible hamburger menu button
 
 ## Build Setup
 
